@@ -1,3 +1,4 @@
 *.elc
 *~
 async-autoloads.el
+helm-autoloads.el
